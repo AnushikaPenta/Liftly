@@ -1,4 +1,4 @@
-import main_img from "../assets/Images/rideSharing.jpg"
+import main_img from "../assets/images/rideSharing.jpg"
 import "../Styling/image.css"
 
 function Images(){

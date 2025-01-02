@@ -1,10 +1,10 @@
 import Slider from "react-slick";
 import "../Styling/testimonials.css";
-import img1 from "../assets/Images/users1.jpeg";
-import img2 from "../assets/Images/users2.jpeg";
-import img3 from "../assets/Images/user3.jpeg";
-import img4 from "../assets/Images/user4.jpg";
-import img5 from "../assets/Images/user5.jpg";
+import img1 from "../assets/images/users1.jpeg";
+import img2 from "../assets/images/users2.jpeg";
+import img3 from "../assets/images/user3.jpeg";
+import img4 from "../assets/images/user4.jpg";
+import img5 from "../assets/images/user5.jpg";
 
 
 

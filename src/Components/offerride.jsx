@@ -1,6 +1,6 @@
 import "../Styling/offerride.css"
 import { Link } from "react-router-dom"
-import img from "../assets/Images/riding.jpg"
+import img from "../assets/images/riding.jpg"
 
 
 function Offerride(){

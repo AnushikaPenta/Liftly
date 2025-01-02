@@ -1,4 +1,4 @@
-import imgs from "../assets/Images/rideSharing.jpg"
+import imgs from "../assets/images/rideSharing.jpg"
 import React from "react";
 import "../Styling/About.css";
 
