@@ -1,7 +1,7 @@
 
 import React from "react";
 
-import Rout from "./routers/routes.jsx";
+import Rout from "./Routers/Router.jsx";
 import Home from "./Components/Home.jsx";
 
 import "slick-carousel/slick/slick.css";
@@ -17,7 +17,7 @@ function App() {
     <>
     
     
-      <h1>hiiii</h1>
+    
    
       <Rout/>
    
