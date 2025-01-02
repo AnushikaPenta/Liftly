@@ -1,0 +1,29 @@
+.img_container{
+    display: flex;
+   
+    width:100%;
+    left: 0%;
+  
+  }
+  
+  .img_container img{
+    width:100%;
+  }
+  
+  @media screen and (max-width: 768px){
+    .img_container img{
+        width:800px;
+    }
+    .img_container{
+        max-width: 730px;
+    }
+  }
+
+  @media screen and (max-width: 48px){
+    .img_container img{
+      width:350px;
+  }
+  .img_container{
+      max-width: 350px;
+  }
+  }
